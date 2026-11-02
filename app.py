@@ -1,7 +1,7 @@
 # Feature update for pull request testing
 
 def hello_world():
-    return "Hello, DevOps!"
+    return "Hello, DevOps!
 
 def welcome_message(name):
     return f"Welcome to DevOps, {name}!"
