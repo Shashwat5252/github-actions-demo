@@ -1,4 +1,4 @@
-# DevOps CI/CD automatic trigger test
+# Feature update for pull request testing
 
 def hello_world():
     return "Hello, DevOps!"
