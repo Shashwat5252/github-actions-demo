@@ -1,3 +1,5 @@
+# DevOps CI/CD automatic trigger test
+
 def hello_world():
     return "Hello, DevOps!"
 
