@@ -3,7 +3,7 @@ from app import hello_world
 
 class TestHelloWorld(unittest.TestCase):
     def test_hello_world_message(self):
-        self.assertEqual(hello_world(), "Hello, Git!")
+        self.assertEqual(hello_world(), "Hello, DevOps!")
 
 if __name__ == "__main__":
     unittest.main()
